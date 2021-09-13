@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pjf_fernandes@yahoo.com.br
+	name = Pedro Fernandes
